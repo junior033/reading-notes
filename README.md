@@ -1,7 +1,7 @@
 ## Reading-notes
 <sub>Reading Notes Journal</sub>
 
-My name is Marlon Angulo. I live in Miami and i'm studying CS in FIU. Today is my first day of CodeFellows and I'm excited to create some projects, develop my portforlio, and continue my journey as a web developer.
+My name is Marlon Angulo. I live in Miami and i'm studying CS in FIU. Today is my first day of CodeFellows and I'm excited to create some projects, develop my portfolio, and continue my journey as a web developer.
 
 **Growth mindset is having a open minded and optimistic perspective to challenges.**
 
