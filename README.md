@@ -14,3 +14,4 @@ If you would like to watch my journey check out my [Github Portfolio](github.com
 
 Table of Contents
   1. [Read 01: Learning Markdown](https://github.com/junior033/reading-notes/blob/main/Read:01-Learning%20Markdown.md)
+  2. [Read 02: The Coders Computer](https://github.com/junior033/reading-notes/blob/main/Read:%2002%20-%20The%20Coder's%20Computer.md)
