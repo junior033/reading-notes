@@ -6,7 +6,7 @@ there are several resources out there for you to look into and it may be overwhe
 ## Terminal VS Text editor
   Often when you see someone coding on TV you will some some nerdy person typing lightning speed on the computer the screen scrolling words and
 numbers in some strange alien language. Usually that scray and flashy screen is just a simple terminal that is used to access your computer files
-and give commands to your operating system to complete certain tasks such as downloading a file in to a specific directory, IE.sudo apt-get install <software name>
+and give commands to your operating system to complete certain tasks such as downloading a file in to a specific directory, `IE.sudo apt-get install <software name>`
 or maybe something as simple as moving one file to another, IE. `mv example.txt ~/example_location`.
 
 
@@ -19,4 +19,5 @@ text editor that will meet your requirements.
 
 ## Things I want to know
 -Is it normal for people to use multiple different text editors?
+  
 -Why do some terminals are perfered for certain tasks over others, IE. Unix for web development?
