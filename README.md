@@ -1,7 +1,7 @@
 ## Reading-notes
 <sub>Reading Notes Journal</sub>
 
-My name is Marlon Angulo. I live in Miami and i'm studying CS in FIU. This is where I will keep my notes while I document my studies from my CodeFellows classes. I'm excited to create some projects, develop my portfolio, and continue my journey as a web developer.
+My name is Marlon Angulo. I live in Miami and i'm studying CS in FIU. This is where I will document my studies from my CodeFellows classes. I'm excited to create some projects, develop my portfolio, and continue my journey as a web developer.
 
 **Growth mindset is having a open minded and optimistic perspective to challenges.**
 
@@ -20,8 +20,8 @@ If you would like to watch my journey check out my [Github Portfolio](github.com
   4. [Read 04: Structure_web_pages_with_HTML](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:04-Structure_web_pages_with_HTML.md)
   5. [Read 05: Design_web_pages_with_CSS](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:05-Design_web_pages_with_CSS.md)
   6. [Read 06: Dynamic_web_pages_with_JavaScript](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:06-Dynamic_web_pages_with_JavaScript.md)
-  7.[Read 07: Programming_with_JavaScript](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:07-Programming_with_JavaScript.md)
-  8.[Read 08: Operators_and_Loops](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:08-Operators_and_Loops.md)
+  7. [Read 07: Programming_with_JavaScript](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:07-Programming_with_JavaScript.md)
+  8. [Read 08: Operators_and_Loops](https://github.com/junior033/reading-notes/blob/main/102-notes/Read:08-Operators_and_Loops.md)
 
 - Code 201 Reading Notes
   1. [Class1](https://github.com/junior033/reading-notes/blob/main/201-notes/class1.md)
