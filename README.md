@@ -12,3 +12,5 @@ My name is Marlon Angulo. I live in Miami and i'm studying CS in FIU. Today is m
 
 If you would like to watch my journey check out my [Github Portfolio](github.com/junior033/).
 
+Table of Contents
+  1. [Read 01: Learning Markdown](https://github.com/junior033/reading-notes/blob/main/Read:01-Learning%20Markdown.md)
