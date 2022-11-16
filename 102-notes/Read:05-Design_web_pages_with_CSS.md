@@ -23,35 +23,35 @@ p {
 - ID selector #idname
 - Attribute selector [attr=value]
 
-*Grouping selectors:* 
+**Grouping selectors:**
 
 `Selector list A, B`
 
-*Combinators:*
+**Combinators:**
 
-  Adjacent sibling combinator A + B
+- Adjacent sibling combinator A + B
   
   Specifies that the elements selected by both A and B
 
-*General sibling combinator* A ~ B
+- General sibling combinator A ~ B
 
   Specifies that the elements selected by both A and B share the same parent
 
-*Child combinator* A > B
+- Child combinator A > B
 
   Specifies that the element selected by B is the direct child of the element selected by A
 
-*Descendant combinator* A B
+- Descendant combinator A B
 
   Specifies that the element selected by B is a descendant of the element selected by A, but is not necessarily a direct child.
 
-*Pseudo*
+**Pseudo**
 
-  Pseudo classes :
+ - Pseudo classes :
   
   Specifies a special state of the selected element(s).
 
-  Pseudo elements ::
+- Pseudo elements ::
   
   Represents entities that are not included in HTML.
 
