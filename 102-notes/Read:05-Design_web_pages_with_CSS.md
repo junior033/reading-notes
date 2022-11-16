@@ -16,35 +16,44 @@ p {
 ```
 
 ## Selector Cheat Cheat
-Basic selectors:
-Universal selector *
-Type selector elementname
-Class selector .classname
-ID selector #idname
-Attribute selector [attr=value]
+*Basic selectors:*
+- Universal selector *
+- Type selector elementname
+- Class selector .classname
+- ID selector #idname
+- Attribute selector [attr=value]
 
-Grouping selectors:
+*Grouping selectors:* 
+
 `Selector list A, B`
 
-Combinators:
-Adjacent sibling combinator A + B
-Specifies that the elements selected by both A and B
+*Combinators:*
 
-General sibling combinator A ~ B
-Specifies that the elements selected by both A and B share the same parent
+  Adjacent sibling combinator A + B
+  
+  Specifies that the elements selected by both A and B
 
-Child combinator A > B
-Specifies that the element selected by B is the direct child of the element selected by A
+*General sibling combinator* A ~ B
 
-Descendant combinator A B
-Specifies that the element selected by B is a descendant of the element selected by A, but is not necessarily a direct child.
+  Specifies that the elements selected by both A and B share the same parent
 
-Pseudo
-Pseudo classes :
-Specifies a special state of the selected element(s).
+*Child combinator* A > B
 
-Pseudo elements ::
-Represents entities that are not included in HTML.
+  Specifies that the element selected by B is the direct child of the element selected by A
+
+*Descendant combinator* A B
+
+  Specifies that the element selected by B is a descendant of the element selected by A, but is not necessarily a direct child.
+
+*Pseudo*
+
+  Pseudo classes :
+  
+  Specifies a special state of the selected element(s).
+
+  Pseudo elements ::
+  
+  Represents entities that are not included in HTML.
 
 ## Things I Want to Know 
--I would like to know about Reset CSS
+- I would like to know about Reset CSS
