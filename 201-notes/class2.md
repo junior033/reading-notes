@@ -2,44 +2,38 @@
 
 ## HTML Text Fundamentals. HTML Advanced Text Formatting.
 
-Why is it important to use semantic elements in our HTML?
+1. Using semantics in our HTML is important because it gives meaning and context to what information we are displaying.
 
-How many levels of headings are there in HTML?
+2. There six heading levels.
 
-What are some uses for the <sup> and <sub> elements?
+3. Use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning
 
-When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+4. To provide the full expansion of the term with the `title` attribute.
 
 ## Learn CSS
 
-What are ways we can apply CSS to our HTML?
+1. We can apply CSS with an external stylesheet, with an internal stylesheet, and with inline styles.
 
-Why should we avoid using inline styles?
+2. We should avoid inline CSS because it is more difficult to maintain and may conflict with other styles.
 
-Review the block of code below and answer the following questions:
-What is representing the selector?
+3. `h2`
 
-Which components are the CSS declarations?
+4. `color: black; padding: 5px;`
 
-Which components are considered properties?
+5. color and padding.
 
-   h2 {
-     color: black;
-     padding: 5px;
-   }
-   
 ## Learn JS
 
-What data type is a sequence of text enclosed in single quote marks?
+1. What data type is a sequence of text enclosed in single quote marks? A string.
 
-List 4 types of JavaScript operators.
+2. `+`, `-`, `=`, `===`
 
-Describe a real world Problem you could solve with a Function.
+3. A real world function can be used in a machine that needs to give exact change when given a bill.
  
-An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+4. An if statement checks a conditioin and if it evaluates to true, then the code block will execute.
 
-What is the use of an else if?
+5. An else-if would allow an extra outcome for block of code to execute.
 
-List 3 different types of comparison operators.
+6. `<`, `>`, `!==`
 
-What is the difference between the logical operator && and ||?
+7. The difference between `&&` and `||` is that `&&` must have both conditions be true to execute while `||` needs only one of them to be true.
