@@ -37,3 +37,6 @@
 6. `<`, `>`, `!==`
 
 7. The difference between `&&` and `||` is that `&&` must have both conditions be true to execute while `||` needs only one of them to be true.
+
+## Things I would like to know more about
+How could I best practice CSS to become more comfortable.
