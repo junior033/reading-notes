@@ -30,7 +30,8 @@ It allows you to create more than one object that will contain the same properti
 
 2. How does the term `this` differ when used in an object literal versus when used in a constructor?
 
-
+`this` differs in a constructor because it will be used everytime a new object is created to assign properties to that new object. While in an object
+literal it is used only to reference that one specific object.
 
 ## Object Prototypes Using A Constructor
 
