@@ -37,5 +37,5 @@ Table of Contents
   11. [Class11](./201-notes/class11.md)
   12. [Class12](./201-notes/class12.md)
   13. [Class13](./201-notes/class13.md)
-  14. [Class14](./201-notes/class14.md)
+  14. [Class14](./201-notes/class14.md) [Class14-2](./201-notes/class14-2.md)
   15. [Class15](./201-notes/class15.md)
