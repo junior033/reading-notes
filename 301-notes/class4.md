@@ -29,3 +29,8 @@ if(x===y){
 }
 ```
 ` x === y ? console.log(true) : console.log(false); `
+
+
+## Things I want to know more about
+
+Are controlled components only used for form?
