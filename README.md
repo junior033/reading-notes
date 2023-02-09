@@ -13,6 +13,7 @@ My name is Marlon Angulo. I live in Miami and i'm studying CS in FIU. This is wh
 If you would like to watch my journey check out my [Github Portfolio](github.com/junior033/).
 
 Table of Contents
+
 - Code 102 Reading Notes
   1. [Read 01: Learning Markdown](./102-notes/Read%3A01-Learning%20Markdown.md)
   2. [Read 02: The Coders Computer](./102-notes/Read%3A%2002%20-%20The%20Coder's%20Computer.md)
@@ -56,3 +57,25 @@ Table of Contents
   13. [Class13](./301-notes/class13.md)
   14. [Class14](./301-notes/class14.md)
   15. [Class15](./301-notes/class15.md)
+
+- Code 401 - Advanced Software Development
+  1. [Class1](./401-notes/class1.md)
+  2. [Class2](./401-notes/class2.md)
+  3. [Class3](./401-notes/class3.md)
+  4. [Class4](./401-notes/class4.md)
+  5. [Class5](./401-notes/class5.md)
+  6. [Class6](./401-notes/class6.md)
+  7. [Class7](./401-notes/class7.md)
+  8. [Class8](./401-notes/class8.md)
+  9. [Class9](./401-notes/class9.md)
+  10. [Class10](./401-notes/class10.md)
+  11. [Class11](./401-notes/class11.md)
+  12. [Class12](./401-notes/class12.md)
+  13. [Class13](./401-notes/class13.md)
+  14. [Class14](./401-notes/class14.md)
+  15. [Class15](./401-notes/class15.md)
+  16. [Class16](./401-notes/class15.md)
+  17. [Class17](./401-notes/class15.md)
+  18. [Class18](./401-notes/class15.md)
+  19. [Class19](./401-notes/class15.md)
+  20. [Class20](./401-notes/class15.md)
