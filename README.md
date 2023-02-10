@@ -59,6 +59,13 @@ Table of Contents
   15. [Class15](./301-notes/class15.md)
 
 - Code 401 - Advanced Software Development
+
+[Prep: Intro to SQL](./401-notes/sql.md)
+[Prep: Growth Mindset](./401-notes/growthMindset.md)
+[Prep: Data Structures and Algorithms](./401-notes/DataStructuresAndAlgorithms.md)
+[Prep: Engineering](./401-notes/engineering.md)
+[Prep: Terminal Practice](./401-notes/terminalPractice.md)
+
   1. [Class1](./401-notes/class1.md)
   2. [Class2](./401-notes/class2.md)
   3. [Class3](./401-notes/class3.md)
